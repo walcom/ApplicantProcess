@@ -13,7 +13,8 @@ dotnet run
 
 
 4- Running client:
-cd WApplicant\
+
+cd WApplicant
 
 npm install
 
