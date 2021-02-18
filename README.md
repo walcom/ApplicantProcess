@@ -2,7 +2,9 @@
 2- cd Hahn.ApplicatonProcess.Application
 
 3- Running Server (Backend):
-cd Hahn.ApplicatonProcess.December2020.Web\
+
+cd Hahn.ApplicatonProcess.December2020.Web
+
 dotnet restore
 
 dotnet build
